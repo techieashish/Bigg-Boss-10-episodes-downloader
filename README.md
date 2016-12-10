@@ -5,6 +5,7 @@ This is a command line application written in python which can easily download t
 The user needs to select from the list of episodes and then that episode is downloaded to the preset directory and user can then navigate and view the video.
 
 #Libraries Used:-
+
 1. Requests
 
-2.Beautifulsoup
+2. Beautifulsoup
